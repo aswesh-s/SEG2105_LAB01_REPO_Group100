@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Sukruth
-=======
 Aswesh
->>>>>>> c74f211987d5b5a28566f878128aec835fe63d18
-Sukruth
+
